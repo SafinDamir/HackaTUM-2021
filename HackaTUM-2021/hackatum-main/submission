@@ -1,0 +1,15 @@
+To submit (include in presentation):
+Geometry
+- [ ] Perfect satellite/orbit number fraction
+- [ ] Best orbit altitude?
+- [ ] Optimal Earth sectorization (very important)
+- [ ] Draw a scheme which angles where etc.
+Physics
+- [ ] Neglecting assumptions (zero connection delay, etc.)
+- [ ] Calculate on paper doppler shift (earth ~137kHz) to be at max 2.5kHz
+ML
+- [ ] Generate train data set (how?)
+- [ ] Get the constellation (which model?)
+Matlab
+- [ ] Model with toolbox and get a score
+- [ ] Dowload pictures for a presentation

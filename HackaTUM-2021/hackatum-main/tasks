@@ -1,0 +1,25 @@
+Our tasks:
+Geometry
+- [?] Perfect satellite/orbit number fraction 
+        -Inclination angles and other parameters of orbits.
+- [+] Best orbit altitude?
+- [+] Optimal Earth sectorization (very important) 
+- [+] Draw a scheme which angles where etc.
+       -10, 75
+Physics
+- [+] Neglecting assumptions (zero connection delay, etc.)
+       How to get rid of assumtions (techniques and algorithms)
+- [+] Calculate on paper doppler shift (earth ~137kHz) to be at max 2.5kHz
+ML
+- [?] Choose augmentation variable (e.g. the number of orbits, the number of satellites on them, and their inclination angles)
+- [-] Generate train data set 
+- [-] Get the constellation (which model?)
+Matlab
+- [-] Create a set of sectors
+- [?] Learn how to check if the sector is covered (6 points?)
+- [+] Model with toolbox and get a score
+- [+] Dowload pictures and gifs for a presentation
+Presentation
+- [+] Cover all assumptions and difficulties
+- [+] Cover doppler effect
+- [?] The task can be solved using ML and explain how we want to structure it.
